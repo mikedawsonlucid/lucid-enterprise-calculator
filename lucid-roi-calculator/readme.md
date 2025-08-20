@@ -10,7 +10,7 @@ A React-based ROI calculator for Lucid's visual collaboration platform.
 - Responsive design with Tailwind CSS
 - Real-time calculations based on user inputs
 - Professional Lucid-branded interface
-- Automatic deployment via GitHub Actions
+- Automatic deployment via GitHub Actions 
 
 ## Project Structure
 
